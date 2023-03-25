@@ -1,0 +1,6 @@
+- Sprint Goal is to Deliver working app for user and manager to test and give feedback with the ability to edit and change features according to their needs.
+	Also, communicate on how to be more efficient in a more healthy enviroment.
+- Team Consists of 4 SW developers, 2 Testers and a scrum master.
+- Each task will be divided on 2 SW developers and both Testers will handle the testing together.
+- Top prioirty tasks according to the backlogs will be handled if Ready.
+- 1st delivery is in 2 weeks.
