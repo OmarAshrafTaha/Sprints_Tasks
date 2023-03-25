@@ -1,0 +1,8 @@
+- DOR
+	> User Story is informative.
+	> User Story is Achievable.
+
+-DOD
+	> Code Test is Successfull.
+	> Code is Reviewed by 2 Team Members.
+	> Review 2 Team Members Code.
